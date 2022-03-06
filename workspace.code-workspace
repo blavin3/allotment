@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../stock-project"
+		},
+		{
+			"path": "../image-processing"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
